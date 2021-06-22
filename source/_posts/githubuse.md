@@ -9,17 +9,21 @@ https://git-scm.com/
 
 설치 버튼 클릭
 
-![gitinstall.png](/images/gitinstall.png)
-### Create a new post
+![gitinstall](/images/gitinstall.png)
 
+다 next 하시고 설치 완료 하시면 됩니다.
+### 환경 변수 설정
+
+내pc > 오른쪽마우스 > 속성 > 고급시스템 설정 > 환경 변수 > 시스템 변수에서 Path 선택 후 편집
+
+아래 경로 추가
 ``` bash
-$ hexo new "My New Post"
+C:\Program Files\Git\cmd
+C:\Program Files\Git\bin
 ```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
 
 ### Run server
 
 ``` bash
-$ hexo server
+$ git init
 ```
