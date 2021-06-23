@@ -79,7 +79,8 @@ print()
 ## 데이터 통계 요약
 print(df.describe())
 print()
-![result7](/images/result7.png)
 ```
+![result7](/images/result7.png)
+
 
 
