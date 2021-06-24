@@ -1,5 +1,6 @@
 ---
 title: How to use Git & Github
+tags : Github
 ---
 ## Git 
 ### Install Git

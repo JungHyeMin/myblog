@@ -49,6 +49,10 @@ type(a)
 b = np.array([6, 7, 8])
 print(b)
 type(b)
+```
+![nr1](/images/nr1.png)
+
+```bash
 print("######################################")
 ## Array Creation
 print("Array Creation")
@@ -59,6 +63,10 @@ print("ar.dtype : ",ar.dtype)
 br = np.array([1.2, 3.5, 5.1])
 print("br : ",br)
 print("br.dtype : ",br.dtype)
+```
+![nr2](/images/nr2.png)
+
+```bash
 print("######################################")
 ## Printing Arrays
 print("Printing Arrays")
@@ -73,6 +81,10 @@ print()
 ### 3d array
 c1 = np.arange(24).reshape(2, 3, 4)
 print(c1)
+```
+![nr3](/images/nr3.png)
+
+```bash
 print("######################################")
 
 ##Basic Operations
@@ -87,5 +99,6 @@ print(b**2)
 print(10*np.sin(a))
 print(a<35)
 ```
+![nr4](/images/nr4.png)
 
 
